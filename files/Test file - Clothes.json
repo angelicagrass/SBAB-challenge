@@ -1,0 +1,64 @@
+{  
+  "clothes":[  
+    {  
+      "type": "T-shirt",
+      "size": "L",
+      "brand": "Tiger",
+      "color": "White"
+    },
+    {  
+      "type": "Shirt",
+      "size": "M",
+      "brand": "Riley",
+      "color": "Blue"
+    },
+    {  
+      "type": "Sweater",
+      "size": "S",
+      "brand": "H&M",
+      "color": "Black"
+    },
+    {  
+      "type": "Hoodie",
+      "size": "XL",
+      "brand": "FILA",
+      "color": "Black"
+    },
+    {  
+      "type": "T-shirt",
+      "size": "XS",
+      "brand": "Calvin Klein",
+      "color": "Grey"
+    },
+    {  
+      "type": "Tanktop",
+      "size": "L",
+      "brand": "Vans",
+      "color": "White"
+    },
+    {  
+      "type": "Shirt",
+      "size": "M",
+      "brand": "Adidas",
+      "color": "Pink"
+    },
+    {  
+      "type": "Sweatpants",
+      "size": "L",
+      "brand": "Gymshark",
+      "color": "Grey"
+    },
+    {  
+      "type": "Sweater",
+      "size": "M",
+      "brand": "Ullared",
+      "color": "Red"
+    },
+    {  
+      "type": "T-shirt",
+      "size": "L",
+      "brand": "Nike",
+      "color": "White"
+    }
+  ]
+}
